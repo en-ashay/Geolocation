@@ -1,5 +1,7 @@
 # LINKS
 
+https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/
+
 https://heartbeat.fritz.ai/class-activation-maps-visualizing-neural-network-decision-making-92efa5af9a33
 
 https://towardsdatascience.com/demystifying-convolutional-neural-networks-using-class-activation-maps-fe94eda4cef1
