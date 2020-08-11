@@ -9,3 +9,9 @@ https://bair.berkeley.edu/blog/2020/04/23/decisions/
 ## Papers
 
 https://sci-hub.tw/https://doi.org/10.3390/rs10040568#
+
+https://arxiv.org/pdf/1910.01279.pdf
+
+https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2Ftabayashi0117%2FScore-CAM%2Fblob%2Fmaster%2Fgradcamutils.py
+
+https://github.com/yosinski/deep-visualization-toolbox
