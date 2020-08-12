@@ -14,4 +14,6 @@ https://arxiv.org/pdf/1910.01279.pdf
 
 https://www.researchgate.net/deref/https%3A%2F%2Fgithub.com%2Ftabayashi0117%2FScore-CAM%2Fblob%2Fmaster%2Fgradcamutils.py
 
+https://arxiv.org/pdf/2007.00649v1.pdf
+
 https://github.com/yosinski/deep-visualization-toolbox
