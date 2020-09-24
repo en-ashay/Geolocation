@@ -50,3 +50,18 @@ Concepts from Supervised learning Stacked ensemble classifiers can be used here.
 4. Deciding the final meta classifier for the prediction. 
 
 5. Also what kind of data augmentation needs to be applied?
+
+
+
+[Reserach_gate_answer](https://www.researchgate.net/post/What_are_the_best_CNN_feature_visualization_techniques)
+
+I dig myself into CNN explainability in the past months. Most of the projects are suitable only one purpose or damn slow per image. I found an implementation of GradCAM, GradCAM++ and ScoreCAM from a Japanese developer on Github. It is awesome, no dependencies and very easy to integrate into your Python stack. And these methods can be run on a larger scale on many images in a reasonable amount of time:
+https://github.com/tabayashi0117/Score-CAM/blob/master/gradcamutils.py
+But it is for Python-Tensorflow (Keras). I can't help in other frameworks-programming languages.
+Other notes:
+- SHAP APIs are not straightforward to use and that method is damn slow. Not very useful to do quick iterations of your work.
+- Backprop-based techniques got criticism for being not really working.
+- LIME got similar criticism.
+- For saliency maps, I did not find them useful at all.
+Any other methods are very much WIP, no public software or you have to implement yourself. I found the above mentioned CAM-based methods, easy to integrate, more or less working and they are relative quick per image.
+
