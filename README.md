@@ -53,7 +53,7 @@ Concepts from Supervised learning Stacked ensemble classifiers can be used here.
 
 
 
-[Reserach_gate_answer](https://www.researchgate.net/post/What_are_the_best_CNN_feature_visualization_techniques)
+## [Reserach_gate_answer](https://www.researchgate.net/post/What_are_the_best_CNN_feature_visualization_techniques)
 
 I dig myself into CNN explainability in the past months. Most of the projects are suitable only one purpose or damn slow per image. I found an implementation of GradCAM, GradCAM++ and ScoreCAM from a Japanese developer on Github. It is awesome, no dependencies and very easy to integrate into your Python stack. And these methods can be run on a larger scale on many images in a reasonable amount of time:
 https://github.com/tabayashi0117/Score-CAM/blob/master/gradcamutils.py
