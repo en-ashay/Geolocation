@@ -34,6 +34,8 @@ https://github.com/yosinski/deep-visualization-toolbox
 3. the authors then use a simple CNN network to make predictions based on these features.
 
 
+
+
 #### How to proceed :
 
 1. Study about the difference in features extracted from various networks and for what they are good.for.
@@ -65,3 +67,5 @@ Other notes:
 - For saliency maps, I did not find them useful at all.
 Any other methods are very much WIP, no public software or you have to implement yourself. I found the above mentioned CAM-based methods, easy to integrate, more or less working and they are relative quick per image.
 
+# Score cam for visualization
+[Official_CVPR](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w1/Wang_Score-CAM_Score-Weighted_Visual_Explanations_for_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf)
